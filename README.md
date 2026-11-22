@@ -23,3 +23,12 @@ Môi trường: Google Colab.
 3. Chuẩn bị dữ liệu Fakeddit.
 4. Chạy lần lượt các ô code.
 5. Kiểm tra kết quả đánh giá.
+## 7. Kết quả thực nghiệm
+
+Các kết quả thực nghiệm được lưu trong thư mục `results/`, bao gồm:
+
+- Bảng so sánh hiệu quả giữa mô hình chỉ sử dụng văn bản và mô hình kết hợp văn bản - hình ảnh.
+- Ma trận nhầm lẫn của các mô hình.
+- Biểu đồ so sánh các chỉ số đánh giá.
+
+Các chỉ số được trình bày gồm Accuracy, Precision, Recall và F1-score.
